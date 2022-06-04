@@ -1,4 +1,6 @@
-# MULTI-CLASS-CLASSIFICATION
+### EX NO:03
+### DATE: 11.04.2022
+# <p align="center">MULTI-CLASS-CLASSIFICATION<p/>
 ## AIM:
 
 To write a python program to implement the multi class classification algorithm .
@@ -20,12 +22,12 @@ In multi-class classification, the neural network has the same number of output 
 4. Using a for loop, plot the points using scatter function.
 
 ## PROGRAM:
-
+```
+Program to implement the multi class classifier.
+Developed by: JANITH CHOWDARY
+RegisterNumber: 212220230057
+```
 ```python
-
-#Program to implement the multi class classifier.
-#Developed by: VEERAPALLI JANITH CHOWDARY
-#RegisterNumber: 212220230057
 
 from numpy import where
 from collections import Counter
@@ -45,7 +47,8 @@ pyplot.show()
 ```
 
 ## OUTPUT:
-![Image](https://github.com/veerapallijanith/MULTI-CLASS-CLASSIFICATION/blob/main/n3.jpg)
+
+<img width="338" alt="output" src="https://user-images.githubusercontent.com/75234991/163834208-71970ec6-6108-4b2b-9631-fa568710740f.png">
 
 ## RESULT:
 
